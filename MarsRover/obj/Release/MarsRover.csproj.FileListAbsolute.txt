@@ -1,0 +1,6 @@
+c:\users\sravira\documents\visual studio 2017\Projects\MarsRover\MarsRover\bin\Release\MarsRover.exe.config
+c:\users\sravira\documents\visual studio 2017\Projects\MarsRover\MarsRover\bin\Release\MarsRover.exe
+c:\users\sravira\documents\visual studio 2017\Projects\MarsRover\MarsRover\bin\Release\MarsRover.pdb
+c:\users\sravira\documents\visual studio 2017\Projects\MarsRover\MarsRover\obj\Release\MarsRover.exe
+c:\users\sravira\documents\visual studio 2017\Projects\MarsRover\MarsRover\obj\Release\MarsRover.pdb
+C:\Users\sravira\documents\visual studio 2017\Projects\MarsRover\MarsRover\obj\Release\MarsRover.csprojResolveAssemblyReference.cache
